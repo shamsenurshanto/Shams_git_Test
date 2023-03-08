@@ -28,3 +28,8 @@ git push // na korle local ei sob thaikka jabe
 clone it using 
 git clone [copied link ]
 
+
+************************
+just normally git clone kore oi file ei shundr kore vs code dia push likhlei hoy just mone rakhte hobe path ta thik ase naki 
+
+
