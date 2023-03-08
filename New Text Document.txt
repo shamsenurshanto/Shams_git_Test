@@ -23,4 +23,5 @@ git checkout my-feature-branch
 git checkout master
 git merge my-feature-branch  // master 23 no line diye gesi pore 24 no line diye ei branher code oi main e disi 
 
+git push // na korle local ei sob thaikka jabe
 
