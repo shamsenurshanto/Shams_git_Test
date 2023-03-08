@@ -32,4 +32,7 @@ git clone [copied link ]
 ************************
 just normally git clone kore oi file ei shundr kore vs code dia push likhlei hoy just mone rakhte hobe path ta thik ase naki 
 
+******** ekhn update data kmne nibo
 
+git fecth 
+git pull
