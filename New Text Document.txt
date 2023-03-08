@@ -36,3 +36,5 @@ just normally git clone kore oi file ei shundr kore vs code dia push likhlei hoy
 
 git fecth 
 git pull
+
+****** git prac *****
