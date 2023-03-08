@@ -15,6 +15,12 @@ now we will do the branching
 git branch my-feature-branch
 
 git checkout my-feature-branch
+  
+  git push --set-upstream origin my-feature-branch
+
+********************** merging the two branches *********
+
+git checkout master
+git merge my-feature-branch
 
 
-**********************
