@@ -7,3 +7,14 @@ git push -u origin main
 
 
 ***************** update ***********
+
+
+now we will do the branching 
+
+
+git branch my-feature-branch
+
+git checkout my-feature-branch
+
+
+**********************
