@@ -25,3 +25,6 @@ git merge my-feature-branch  // master 23 no line diye gesi pore 24 no line diye
 
 git push // na korle local ei sob thaikka jabe
 
+clone it using 
+git clone [copied link ]
+
